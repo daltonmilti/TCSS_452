@@ -1,6 +1,6 @@
 # Synchro Studio : Rebuilding the Flow
 
-![Logo Placeholder]
+![Team Logo](images/logo.png)
 
 ## Team: The Destroyers
 ##### Aileen Rosas
@@ -22,8 +22,8 @@ Our redesign addresses these challenges by creating a more cohesive and intuitiv
 - Click-based map interactions for direct, contextual data input.
 - A Consistent UI layout across all setting menus for better usability.
 
-![Initial Prototype]
-
+## Initial Prototype
+![Initial Prototype Placeholder]
 ---
 
 ## Design Walkthrough
@@ -72,7 +72,7 @@ Identify key usability bottlenecks in Synchro Studio and understand user pain po
 
 **Methods:**
 - Survey (2 responses)
-- 2 interviews (10 minutes each)
+- Interviews (two, 10 minutes each)
 
 **Participants:** 
 Students in TCE 327 with with actual Synchro Studio experience.
@@ -89,13 +89,13 @@ These methods offered insights into both novice and frequent user experiences, g
 - **Impact:** We embedded tooltips, clearer labels, and simplified menues to enhance discoverability without
 overwhelming users.
 
-**#### Insight 2: UI Feels Overwhelming**
+**Insight 2: UI Feels Overwhelming**
 - **Emergence:** Students described the interface as bloated and visually cluttered, especially for first-time users.
 - **Evidence:** "There's just too much going on and not enough help."
 "Every setting is there, but it's overwhelming when you're new."
 - **Impact:** We consolodated tool menus, implemented a customizable QuickBar, and emphasized clean visual groupings.
 
-**#### Insight 3: Tasks Are Tedious and Fragmented**
+**Insight 3: Tasks Are Tedious and Fragmented**
 - **Emergence:** Students felt that even small adjustments took too long, with constant back-and-forth between menus
 and settings.
 - **Evidence:** "It's not loading slow—it's just too many steps over and over"
@@ -108,29 +108,46 @@ users faster results from their actions.
 ## Iterative Design and Key Learnings
 
 ### Process Summary
-We began with paper prototyping and conducted usability testing. We then transitioned to the digital mockup in Figma
-based on feedback recieved. The Hueristic evaluations informed interface refinements.Enhancements focused on feedback 
-clarity, simplification, and interaction logic.
+Our design process followed an iterative structure of paper prototyping -> usability testing -> digital mockups -> heuristic evaluation.
+The paper prototype helped us quickly identify interaction challenges and gather feedback on task flow. We then implemented changes in a
+higher-fidelity Figma mockup and conducted a heuristic evaluation to refine interface elements and clarify feedback mechanisms.
+This iterative approach helped us focus on:
+- Clarifying visual feedback
+- Simplifying task logic
+- Improving interaction discoverability.
 
 ### Paper Prototype:
+We tested our paper prototype with a group member acting as a participant and recorded critical incidents during two key tasks:
+- Adding two left-turn lanes
+- Customizing the QuickBar with Phasing Settings
 
 ### Digital Mockup:
+The digital prototype was created in Figma, based on revisions from our usability testing. It incorporated clearer visual states, simplified
+interactions, and refined feedback indicators. Another team then conducted a heuristic evaluation using Nielsen's 10 Usability Heuristics to guide further refinements.
+
+### Rationale: 
+This iterative process revealed that even small interaction details, like visual feedback or trigger behavior, can significantly affect user understanding and efficiency. Testing early with low-fidelity prototypes helped us quickly uncover usability issues without investing too much time in polish. Transitioning to digital mockups allowed us to refine those ideas with more realism and validate changes through heuristic evaluation. This cycle emphasized the value of early feedback, incremental improvements, and user-centered mindset in producing a more intuitive and effective design.
+
+![Paper Prototype Placeholder]
 
 ## Key Iteration Insights
 **Insight 1:** Visual Feedback Improves Usability
-- **Emergence:** Confusion over customization modes.
-- **Evidence:** Testers misunderstood green highlight.
-- **Change:** Added green outlines, tooltips, and messages to clarify add/remove modes.
+- **Emergence:** During usability testing, participants were confused by the green arrow indicator when customizing the QuickBar.
+- **Evidence:** Green arrow made users confused about what they did. The lack of a label or confirmation message caused uncertainty.
+- **Change:** We added a visible label that explains the green state and what actions users can take.
+- **Impact:** This clarification provided immediate feedback and improved user confidence in the customization mode.
 
-**Insight 2:** Lane Logic Needs Simplification
-- **Emergence:** Complex lane configurations confused uers.
-- **Evidence:** Usability tests showed hesitation around submenu use.
-- **Change:** Limited functionality to left turn lanes with logic constraints to match receiving lanes.
+**Insight 2:** Hover-Based Menus Created Confusion
+- **Emergence:** In the lane editing task, participants were unsure why a second submenu appeared.
+- **Evidence:** "Participant was unsure why it appeared. Eventually realized it was triggered by hover."
+- **Change:** We switched the interactin from hover to click-based activation to make behavior more explicit and user-controlled.
+- **Impact:** This reduced unexpected menu behavior and made the lane editing process more predictable.
 
 **Insight 3:** Tool Management Should Be Modular
-- **Emergence:** Users disliked last-in-first-out logic
-- **Evidence:** Inability to remove a specific tool.
-- **Change:** Switched to direct selection for removal, improving control and transparency.
+- **Emergence:** Users disliked last-in-first-out logic and lack of control over QuickBar tool removal.
+- **Evidence:** Users were not able to remove a specific tool directly as it was LIFO.
+- **Change:** We changed QuickBar tool management to click-based selection and removal, allowing users to manage individual tools.
+- **Impact:** This improvement gave users more control and matched their expectations of modular, customizable toolbars.
 
 ---
 
