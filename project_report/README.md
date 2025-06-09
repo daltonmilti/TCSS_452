@@ -23,9 +23,9 @@ Our redesign addresses these challenges by creating a more cohesive and intuitiv
 - A Consistent UI layout across all setting menus for better usability.
 
 ## Initial Prototype
-![Alt text](https://github.com/daltonmilti/TCSS_452/blob/main/project_report/images/adding_left_lanes_paper_prototype.jpg)
-![](https://github.com/daltonmilti/TCSS_452/blob/main/project_report/images/adding_new_button_paper_prototype.jpg)
-![](https://github.com/daltonmilti/TCSS_452/blob/main/project_report/images/opening_tables_%2B_editing_volume_paper_prototype.jpgx)
+![1](https://github.com/daltonmilti/TCSS_452/blob/main/project_report/images/adding_left_lanes_paper_prototype.jpg)
+![2](https://github.com/daltonmilti/TCSS_452/blob/main/project_report/images/adding_new_button_paper_prototype.jpg)
+![3](https://github.com/daltonmilti/TCSS_452/blob/main/project_report/images/opening_tables_%2B_editing_volume_paper_prototype.jpg)
 
 ---
 
