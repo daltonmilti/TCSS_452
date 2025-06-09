@@ -23,7 +23,7 @@ Our redesign addresses these challenges by creating a more cohesive and intuitiv
 - A Consistent UI layout across all setting menus for better usability.
 
 ## Initial Prototype
-![Alt text]([https://github.com/username/repo/blob/branch/path/to/image.jpg?raw=true](https://github.com/daltonmilti/TCSS_452/blob/main/project_report/images/adding_left_lanes_paper_prototype.jpg))
+![Alt text](https://github.com/daltonmilti/TCSS_452/blob/main/project_report/images/adding_left_lanes_paper_prototype.jpg)
 
 ---
 
