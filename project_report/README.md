@@ -131,7 +131,9 @@ interactions, and refined feedback indicators. Another team then conducted a heu
 ### Rationale: 
 This iterative process revealed that even small interaction details, like visual feedback or trigger behavior, can significantly affect user understanding and efficiency. Testing early with low-fidelity prototypes helped us quickly uncover usability issues without investing too much time in polish. Transitioning to digital mockups allowed us to refine those ideas with more realism and validate changes through heuristic evaluation. This cycle emphasized the value of early feedback, incremental improvements, and user-centered mindset in producing a more intuitive and effective design.
 
-![Paper Prototype Placeholder]
+![1](https://github.com/daltonmilti/TCSS_452/blob/main/project_report/images/adding_left_lanes_paper_prototype.jpg)
+![2](https://github.com/daltonmilti/TCSS_452/blob/main/project_report/images/adding_new_button_paper_prototype.jpg)
+![3](https://github.com/daltonmilti/TCSS_452/blob/main/project_report/images/opening_tables_%2B_editing_volume_paper_prototype.jpg)
 
 ## Key Iteration Insights
 **Insight 1:** Visual Feedback Improves Usability
