@@ -25,6 +25,7 @@ Our redesign addresses these challenges by creating a more cohesive and intuitiv
 ## Initial Prototype
 ![Alt text](https://github.com/daltonmilti/TCSS_452/blob/main/project_report/images/adding_left_lanes_paper_prototype.jpg)
 ![](https://github.com/daltonmilti/TCSS_452/blob/main/project_report/images/adding_new_button_paper_prototype.jpg)
+![](https://github.com/daltonmilti/TCSS_452/blob/main/project_report/images/opening_tables_%2B_editing_volume_paper_prototype.jpgx)
 
 ---
 
